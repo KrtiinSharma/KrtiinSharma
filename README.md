@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krtiinsharma&label=Profile%20views&color=0e75b6&style=flat" alt="krtiinsharma" /> </p>
 
-<p align="left"> <a href="https://twitter.com/krtiin sharma" target="blank"><img src="https://img.shields.io/twitter/follow/KrtiinS?logo=twitter&style=for-the-badge" alt="krtiin sharma" /></a> </p>
-
 - 📫 How to reach me **krtiinsharma2415@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
