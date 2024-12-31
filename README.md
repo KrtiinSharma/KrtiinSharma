@@ -8,10 +8,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://www.buymeacoffee.com/krtiin" target="_blank"><img align="center" alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" height="30" width="40" /></a>
 <a href="https://twitter.com/KrtiinS" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="krtiin sharma" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/krtiin sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krtiin sharma" height="30" width="40" /></a>
 <a href="https://instagram.com/krtiin2415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="krtiin2415" height="30" width="40" /></a>
-  <a href="https://www.buymeacoffee.com/krtiin" target="_blank"><img align="center" alt="" src="https://img.shields.io/badge/Help%20Me-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" style="vertical-align:center" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
