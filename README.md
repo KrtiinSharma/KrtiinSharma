@@ -22,3 +22,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krtiinsharma&show_icons=true&theme=gotham&locale=en" alt="krtiinsharma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krtiinsharma&theme=gotham" alt="krtiinsharma" /></p>
+<p align="center">
+    <a href="https://krtiinsharma.github.io/my-portfolio/">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=KrtiinSharma&theme=gotham&hide_border=false&hide_title=false&area=true&custom_title=Total%20Contribution%20Graph%20In%20All%20Repo" width="95%" alt="activity graph">
+    </a>
+</p>
