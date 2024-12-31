@@ -33,3 +33,5 @@
     <a href="https://github.com/KrtiinSharma/KrtiinSharma">
         <img src="https://github-profile-trophy.vercel.app/?username=KrtiinSharma&column=-1&theme=dracula&layout=compact"width="95%"/> 
 </p>
+
+<h3 align="center">Give repo a star  if it is helpful to you!</h3>
